@@ -7,7 +7,7 @@ public class starter {
 
 		
 		
-	System.out.println("blah blah blah");
+	System.out.println("hello world");
 	}
 
 }
